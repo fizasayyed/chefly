@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# exclude cache folder
-ai/cache
-
-# exclude .env file
-.env
-
-# exclude buffer memory file
-ai/conversational_bot_buffer.ipynb
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -182,4 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> 3c1e875 (Initial commit)
