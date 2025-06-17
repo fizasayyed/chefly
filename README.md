@@ -1,5 +1,7 @@
 # Chefly - Recipe Assistant
 
+<img src="./RAG_workflow.png" alt="RAG_workflow_diagram">
+
 ## Overview
 Chefly is a conversational recipe assistant that uses RAG (Retrieval-Augmented Generation) to answer questions about recipes.
 
